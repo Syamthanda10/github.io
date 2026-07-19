@@ -8,7 +8,7 @@
 # ║  siteMode: "portfolio"  ← Shows YOUR portfolio                      ║
 # ╚══════════════════════════════════════════════════════════════════════╝
 siteMode: "portfolio"   # ✅ CHANGED to "portfolio"
-siteUrl:  "https://yourusername.github.io"  # ← CHANGE this to your actual GitHub Pages URL
+siteUrl:  "https://syamthanda10.github.io/github.io"  # ← CHANGE this to your actual GitHub Pages URL
 showPoweredBy: false
 
 # ── Identity ──────────────────────────────────────────────────────────────
