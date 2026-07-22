@@ -18,7 +18,7 @@ tagline: "Passionate about education, innovation, and building meaningful techno
 email: "syamthandankosinathi7@gmail.com"
 phone: "+27 66 461 5160"
 location: "Nquthu, South Africa"
-avatarUrl: ""  # ← You can add a photo later (see instructions below)
+avatarUrl: "https://raw.githubusercontent.com/syamthanda10/github.io/main/Profile.jpeg"  
 
 # ── Resume download ────────────────────────────────────────────────────
 # resumeUrl: ""
@@ -54,8 +54,8 @@ sections:
 
 # ── Social links ───────────────────────────────────────────────────────
 social:
-  github:   "https://github.com/yourusername"  # ← CHANGE to your GitHub
-  linkedin: "https://linkedin.com/in/yourusername"  # ← CHANGE to your LinkedIn
+  github:   "https://github.com/Syamthanda10"  #
+  linkedin: "http://www.linkedin.com/in/syamthanda-mtshali-1b46372a9"  # ← CHANGE to your LinkedIn
   twitter:  ""
   website:  ""
 
@@ -76,7 +76,7 @@ about: |
 # ── Stats ──────────────────────────────────────────────────────────────
 stats:
   - { label: "Academic Year", value: 3, suffix: "" }
-  - { label: "Group Project Score", value: 97, suffix: "%" }
+  - { label: "Group Project Score", value: 85, suffix: "%" }
   - { label: "Programming Languages", value: 3, suffix: "" }
 
 # ── Languages ──────────────────────────────────────────────────────────
@@ -105,7 +105,7 @@ experience:
       Technology program. Consistently demonstrating academic excellence 
       and strong collaboration skills in group projects.
     highlights:
-      - "97% achievement in Database Systems group projects"
+      - "80% achievement in Database Systems group projects"
       - "97% achievement in Computer Networks group projects"
       - "Strong academic performance in Programming Fundamentals"
       - "Proficient in C#, Java, and Python"
@@ -113,7 +113,7 @@ experience:
 # ── Projects ───────────────────────────────────────────────────────────
 projects:
   - name: "Database Systems Group Project"
-    description: "Collaborative group project achieving 97%. Demonstrated strong database design, implementation, and teamwork skills."
+    description: "Collaborative group project achieving 80%. Demonstrated strong database design, implementation, and teamwork skills."
     tags: ["Database Management", "SQL", "Team Collaboration"]
     liveUrl: ""
     repoUrl: ""
